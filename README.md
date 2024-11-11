@@ -72,5 +72,3 @@ TennisForTwo
 ```
 
 ---
-
-Feel free to modify this `README.md` to better fit your project's needs!
