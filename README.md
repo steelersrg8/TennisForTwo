@@ -1,5 +1,3 @@
-Here's a comprehensive `README.md` template for the repository you linked:
-
 ---
 
 # 🎾 Tennis For Two
